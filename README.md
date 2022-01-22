@@ -26,7 +26,7 @@ TROLLS army - [SmartScan Explorer](https://www.smartscan.cash/address/)
 
 TROLLS [genesis transaction](https://www.smartscan.cash/transaction/)
 
-TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/SmartSLP_v1.sol) was created with [SmartSLP Manager](https://smartbch.fountainhead.cash/smartslp/)
+TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/) was created with [Remix](https://remix.ethereum.org/)
 
 TROLLS contract ownership is [renounced](https://www.smartscan.cash/transaction/) to 0x0 address
 

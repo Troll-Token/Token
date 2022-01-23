@@ -26,7 +26,7 @@ TROLLS army - [SmartScan Explorer](https://www.smartscan.cash/address/0xF4AFF743
 
 TROLLS [genesis transaction](https://www.smartscan.cash/transaction/0x3cee9f1c688e287f78316cf432949c23ae6a84e4404dea44c1afad2390e3f280)
 
-TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/) was created with [Remix](https://remix.ethereum.org/)
+TROLLS [contract](https://github.com/troll-token/troll-token.github.io/blob/master/trolls/contracts/TROLLS.sol) was created with [Remix](https://remix.ethereum.org/)
 
 TROLLS contract ownership is [renounced](https://www.smartscan.cash/transaction/) to 0x0 address
 
@@ -44,9 +44,9 @@ TROLLS [faucet](https://trollsfaucet.herokuapp.com). You can claim 500 TROLLS 1 
 
 Alternatively go [here](https://oneclickdapp.com/). Connect MetaMask, click on Write tab, click on claim TROLLS(address), paste your address in the recipient field and click Submit button. It is onchain, so you need BCH to pay for gas. Confirm transaction in MetaMask. You have been zombiefied - Result success. If you click on the Read tab lockTime(address) and paste your address in the address field, click submit, you get a number at the bottom - timestamp. You can copy the number and paste it to [Unixstamp](https://www.unixtimestamp.com), click convert and you get exact time you can claim again.
 
-ZOMBIE Faucet contract: 0x0
+TROLLS Faucet contract: 0x5Ae3e3D428193d204FAeCEaFC6fc947aDf29EB2f
 
-Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/)
+Check faucet balance - [SmartScan Explorer](https://www.smartscan.cash/address/0x5Ae3e3D428193d204FAeCEaFC6fc947aDf29EB2f)
 
 ### Trade TROLLS token
 

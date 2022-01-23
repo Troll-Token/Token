@@ -8,6 +8,8 @@ The token is a tradable asset, but there is no expectation of profit.
 
 Do your own research. No bullshit! Just TROLLS.
 
+ALWAYS check the correct token address! 
+
 ### TROLLS SmartBCH SEP20 token
 
 Name: TROLLS
